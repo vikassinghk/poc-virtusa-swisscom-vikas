@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/E2ETesting.iml" filepath="$PROJECT_DIR$/E2ETesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E2ETestingModel/E2ETestingModel.iml" filepath="$PROJECT_DIR$/E2ETestingModel/E2ETestingModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E2ETestingRest/E2ETestingRest.iml" filepath="$PROJECT_DIR$/E2ETestingRest/E2ETestingRest.iml" />
+    </modules>
+  </component>
+</project>

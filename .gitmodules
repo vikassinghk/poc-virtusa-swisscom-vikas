@@ -1,0 +1,3 @@
+[submodule "E2E-Angular"]
+	path = E2E-Angular
+	url = https://github.com/vikassinghk/E2E-Angular

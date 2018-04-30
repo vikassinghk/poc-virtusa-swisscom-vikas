@@ -1,0 +1,5 @@
+org\vikas\model\BaseEntity.class
+org\vikas\jpa\repository\MessageRepository.class
+org\vikas\model\Message.class
+org\vikas\service\impl\MessageServiceImpl.class
+org\vikas\service\MessageService.class
